@@ -1,4 +1,3 @@
-course = 'Python for Beginners'
-another = course[:]
+name = 'Jennifer'
 
-print(another)
+print(name[1:-1])
