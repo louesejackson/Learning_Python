@@ -1,2 +1,2 @@
 course = 'Python for Beginners'
-print(course.find('o'))
+print(course.find('Beginners'))
